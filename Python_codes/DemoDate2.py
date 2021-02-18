@@ -13,7 +13,7 @@ def calculate_age(bday):
 
 print('Enter a date in YYYY-MM-DD format');
 date_entry = input();
-year, month, day = map(int, date_entry.split('-'))
+year, month, day = map(int, date_entry.split('-')) # Added the relevant comment
 
 
 bday=date(year,month,day);
