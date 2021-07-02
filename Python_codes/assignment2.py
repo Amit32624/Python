@@ -9,7 +9,7 @@
 
 #main function to find repeated words.
 def find_repeats(fname):
-    file = open(file_name, "r")
+    file = open(file_name, "rrr")
     lines = file.readlines()
     num_char = 0
     for k in range(len(lines)):
