@@ -3,7 +3,7 @@ data=[2,4,7,9,10,20,30,100]
 
 print(data)
 
-print("Enter the key you want to search")
+print("Enter the key you want to searchh")
 key=int(input())
 
 print(key)
